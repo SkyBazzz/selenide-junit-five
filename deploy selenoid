@@ -1,0 +1,4 @@
+cm selenoid start --vnc
+cm selenoid stop
+cm selenoid-ui start
+cm selenoid-ui stop
